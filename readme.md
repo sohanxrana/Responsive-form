@@ -12,7 +12,7 @@ A **fully responsive** and modern contact form integrated with **Formspree** for
 ## 🔧 Installation  
 
 1. **Clone the repository**  
-   git clone https://github.com/sohanxrana/Responsive-Form-Formspree.git
+   git clone https://github.com/sohanxrana/Responsive-form.git
    
 2. **Navigate to the project folder**  
    
